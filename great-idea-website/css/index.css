@@ -127,9 +127,11 @@ header .logo {
   color: white;
 }
 
+
 .cta img {
   display: inline-block;
-  margin-top: 69px;
+  margin-top: -700px;
+  margin-left: 600px;
 }
 
 .main-content {
